@@ -1,0 +1,44 @@
+.about .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.about-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 20px;
+}
+h1::after {
+  content: "";
+  display: block;
+  width: 70px;
+  height: 4px;
+  border-radius: 5px;
+  background-color: #3e3cc1;
+  margin: 10px auto;
+}
+.about-img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 20px;
+  margin: 20px auto;
+}
+.about-text-box {
+  width: 100%;
+  max-width: 650px;
+  height: auto;
+  border-radius: 20px;
+  margin: 20px auto;
+  padding: 20px 20px 20px 0;
+}
+
+.about-text-box .first-part {
+  font-weight: 600;
+  color: #736ced;
+}
+.about-text-box .third-part {
+  font-weight: 600;
+  color: #13235b;
+}

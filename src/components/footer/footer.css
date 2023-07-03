@@ -1,0 +1,74 @@
+.main-footer {
+  width: 100%;
+  display: block;
+  z-index: 9999;
+  /* background-color: #d4c1ec; */
+}
+.main-footer .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  /* border-top: 1px solid #726ced80; */
+  padding: 1.5rem 0 0 0;
+}
+.main-footer .logo-box {
+  padding: 4px 0;
+  height: 60px;
+  display: block;
+}
+.main-footer .logo {
+  width: 100%;
+  height: 100%;
+  font-family: "Dancing Script", cursive;
+  font-size: 2rem;
+  font-weight: 600;
+  color: black;
+  text-decoration: none;
+}
+.logo:hover {
+  cursor: pointer;
+}
+.nav-footer ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: center;
+  list-style: none;
+}
+.nav-footer li {
+  margin: 5px 25px;
+  display: inline-block;
+}
+.nav-footer .menu-item {
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+}
+.nav-footer .menu-item:hover {
+  color: #13235b;
+  padding-bottom: 2px;
+  border-bottom: 3px solid #13235b;
+}
+.contact-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px 0;
+}
+.contact-item a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+  padding-left: 8px;
+}
+.contact-box h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: black;
+}
