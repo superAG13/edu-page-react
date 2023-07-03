@@ -15,9 +15,6 @@ function Offer() {
             każdego ucznia, aby uczynić naukę języka angielskiego przyjemną i skuteczną.
           </span>
           <span className="part third-part">Zajęcia odbywają się w formie lekcji online, w dogodnym dla Ciebie terminie.</span>
-          <span className="part fourth-part">
-            Jeśli masz jakieś dodatkowe pytania, zapraszam do kontaktu, abyśmy mogli omówić szczegóły i ustalić plan nauki, który pomoże Ci osiągnąć Twoje cele językowe.
-          </span>
         </div>
         <div className="offer-container">
           <div className="offer-box">
