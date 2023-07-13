@@ -1,0 +1,11 @@
+.faq .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 25px;
+}
+.faq-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

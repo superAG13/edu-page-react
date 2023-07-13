@@ -1,5 +1,5 @@
 import "./offer.css";
-import {BsPerson, BsPeople} from "react-icons/bs";
+import { BsPerson, BsPeople } from "react-icons/bs";
 function Offer() {
   return (
     <div className="offer">
@@ -10,9 +10,9 @@ function Offer() {
             Oferuję zajęcia indywidualne,w parach oraz grupowe, dostosowane do potrzeb uczniów w każdym wieku i na różnym poziomie zaawansowania.
           </span>
           <span className="part second-part">
-            Od kilku lat przygotowuje uczniów do egzaminu ósmoklasisty oraz matury z języka angielskiego. Na zajęciach stawiam na rozwój wszystkich umiejętności
-            językowych, a także na przygotowanie do sytuacji komunikacyjnych z życia codziennego. Staram się prowadzić lekcje w sposób interesujący i przystępny dla
-            każdego ucznia, aby uczynić naukę języka angielskiego przyjemną i skuteczną.
+            Od kilku lat przygotowuje uczniów do egzaminu ósmoklasisty oraz matury z języka angielskiego. Na zajęciach stawiam na rozwój wszystkich
+            umiejętności językowych, a także na przygotowanie do sytuacji komunikacyjnych z życia codziennego. Staram się prowadzić lekcje w sposób
+            interesujący i przystępny dla każdego ucznia, aby uczynić naukę języka angielskiego przyjemną i skuteczną.
           </span>
           <span className="part third-part">Zajęcia odbywają się w formie lekcji online, w dogodnym dla Ciebie terminie.</span>
         </div>
@@ -63,6 +63,9 @@ function Offer() {
               </ul>
             </div>
           </div>
+        </div>
+        <div className="add">
+          <h2>*Cena zalezy od długości zajęć oraz liczby uczniów</h2>
         </div>
       </div>
     </div>

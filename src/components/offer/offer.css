@@ -113,3 +113,9 @@ h1::after {
   color: #13235b;
   font-weight: 600;
 } */
+.add h2 {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #736ced;
+  margin-top: -8px;
+}
