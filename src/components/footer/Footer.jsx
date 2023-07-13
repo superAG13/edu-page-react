@@ -43,11 +43,11 @@ function Footer() {
           <h2>Skontaktuj się ze mną!</h2>
           <div className="contact-item">
             <BsTelephone size="24px" color="black" />
-            <a href="tel:+48507462388">507 462 388</a>
+            <a href="tel:">123 456 789</a>
           </div>
           <div className="contact-item">
             <HiOutlineMail size="24px" color="black" />
-            <a href="mailto:kkamila.kowalczyk@gmail.com">kkamila.kowalczyk@gmail.com</a>
+            <a href="mailto:">example@gmail.com</a>
           </div>
         </div>
       </div>
